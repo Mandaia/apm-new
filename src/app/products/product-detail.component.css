@@ -1,0 +1,22 @@
+.product-image {
+    max-width: 300px;
+    max-height: 300px;
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .col-md-6 {
+    width: 48%;
+  }
+  
+  .col-md-6:first-child {
+    margin-right: 2%;
+  }
+
+.card-body {
+    margin: 10px;
+}
+  
